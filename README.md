@@ -263,19 +263,19 @@ MEDIA_ROOT/products/
 
 # Screenshots
 
-## All Product List Page
+## All Products
 
-![Product_List Page](all_products.png)
-
----
-
-## Add Product Create Form
-
-![AddProduct Page](/add_product.png)
+![Product_List Page](./all_products.png)
 
 ---
 
-## Edit Product Edit Form
+## Add Product
+
+![AddProduct Page](./add_product.png)
+
+---
+
+## View/Edit Product
 
 ![EditProduct Page](./edit_product.png)
 

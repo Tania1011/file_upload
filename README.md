@@ -265,17 +265,17 @@ MEDIA_ROOT/products/
 
 ## All Product List Page
 
-![Product_List Page](screenshots/all_products.png)
+![Product_List Page](all_products.png)
 
 ---
 
 ## Add Product Create Form
 
-![AddProduct Page](screenshots/add_product.png)
+![AddProduct Page](/add_product.png)
 
 ---
 
 ## Edit Product Edit Form
 
-![EditProduct Page](screenshots/edit_product.png)
+![EditProduct Page](./edit_product.png)
 
